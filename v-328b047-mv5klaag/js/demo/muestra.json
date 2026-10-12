@@ -1,0 +1,3674 @@
+{
+ "origen": "yuan-import-bsxbh6zq.myshopify.com",
+ "categorias": [
+  {
+   "handle": "velas",
+   "name": "Velas",
+   "description": null,
+   "image": null,
+   "productCount": 13,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "yeso",
+   "name": "Yeso",
+   "description": null,
+   "image": null,
+   "productCount": 6,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "resina",
+   "name": "Resina",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "jabones",
+   "name": "Jabones",
+   "description": null,
+   "image": null,
+   "productCount": 4,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "bombones",
+   "name": "Bombones",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "reposteria",
+   "name": "Repostería",
+   "description": null,
+   "image": null,
+   "productCount": 7,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "fondant",
+   "name": "Fondant",
+   "description": null,
+   "image": null,
+   "productCount": 6,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "tabletas",
+   "name": "Tabletas",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "paletas",
+   "name": "Paletas",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "navidad",
+   "name": "Navidad",
+   "description": null,
+   "image": null,
+   "productCount": 10,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "halloween",
+   "name": "Halloween",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "pascuas",
+   "name": "Pascuas",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "insumos",
+   "name": "Insumos",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "nuevos-ingresos",
+   "name": "Nuevos ingresos",
+   "description": null,
+   "image": null,
+   "productCount": 18,
+   "parent": null,
+   "children": []
+  },
+  {
+   "handle": "ofertas",
+   "name": "Ofertas",
+   "description": null,
+   "image": null,
+   "productCount": 3,
+   "parent": null,
+   "children": []
+  }
+ ],
+ "productos": [
+  {
+   "id": "15396142547310",
+   "handle": "repuestos-para-lapiceras-5-unidades",
+   "title": "Repuestos para lapiceras - 5 unidades",
+   "description": "<p>Repuestos para hacer lapiceras en resina epoxi</p><p>5 unidades, todas del mismo color</p><p>Colores disponibles: rojo, azul, negro</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Resina"
+   ],
+   "categories": [
+    "resina"
+   ],
+   "currency": "UYU",
+   "price": 5000,
+   "priceMin": 5000,
+   "priceMax": 5000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Repuestos para lapiceras - 5 unidades",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Repuestos para lapiceras - 5 unidades",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/repuestos-lapiceras.png?v=1790621962&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [
+    {
+     "name": "Color",
+     "values": [
+      "Negro",
+      "Rojo"
+     ],
+     "colors": null
+    }
+   ],
+   "variants": [
+    {
+     "id": "v67591254606190",
+     "title": "Negro",
+     "options": [
+      "Negro"
+     ],
+     "sku": null,
+     "price": 5000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 3,
+     "image": null,
+     "imageIndex": null
+    },
+    {
+     "id": "v67591254638958",
+     "title": "Rojo",
+     "options": [
+      "Rojo"
+     ],
+     "sku": null,
+     "price": 5000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 4,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:20-03:00"
+  },
+  {
+   "id": "15396138516846",
+   "handle": "set-de-placas-de-silicona-con-texturas",
+   "title": "Set de placas de silicona con texturas",
+   "description": "<p>Set de placas de silicona con texturas</p><p>Usos recomendados: fondant, porcelana fría</p><p>Medidas aproximadas: 10 x 10 cm</p><p> </p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Fondant",
+    "Moldes",
+    "Repostería"
+   ],
+   "categories": [
+    "fondant",
+    "reposteria"
+   ],
+   "currency": "UYU",
+   "price": 40000,
+   "priceMin": 40000,
+   "priceMax": 40000,
+   "compareAtPrice": null,
+   "available": false,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Set de placas de silicona con texturas",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Set de placas de silicona con texturas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas.png?v=1790621818&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas-medidas.png?v=1790621816",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Set de placas de silicona con texturas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas-medidas.png?v=1790621816&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas-medidas.png?v=1790621816&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/placas-medidas.png?v=1790621816&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591248216430",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P1700",
+     "price": 40000,
+     "compareAtPrice": null,
+     "available": false,
+     "stock": 0,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "10 x 10 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:56:54-03:00"
+  },
+  {
+   "id": "15396137959790",
+   "handle": "molde-corazon-entre-manos-10419",
+   "title": "Molde corazón entre manos",
+   "description": "<p>Molde de silicona para velas</p><p>Modelo corazón entre manos</p><p>Medidas aproximadas: 7.5 x 7.6 cm</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Velas"
+   ],
+   "categories": [
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 15000,
+   "priceMin": 15000,
+   "priceMax": 15000,
+   "compareAtPrice": null,
+   "available": false,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde corazón entre manos",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde corazón entre manos",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos.png?v=1790621795&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos-medidas.png?v=1790621795",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde corazón entre manos",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos-medidas.png?v=1790621795&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos-medidas.png?v=1790621795&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/corazon-manos-medidas.png?v=1790621795&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591247331694",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": null,
+     "price": 15000,
+     "compareAtPrice": null,
+     "available": false,
+     "stock": 0,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "7.5 x 7.6 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:56:33-03:00"
+  },
+  {
+   "id": "15396137730414",
+   "handle": "set-de-moldes-para-fondant-animales",
+   "title": "Set de moldes para fondant, animales",
+   "description": "<p>Set de moldes para fondant o porcelana fría</p><p>5 moldes incluidos: conejo con zanahoria, mono, león, elefante y jirafa</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Fondant",
+    "Moldes"
+   ],
+   "categories": [
+    "fondant"
+   ],
+   "currency": "UYU",
+   "price": 72000,
+   "priceMin": 72000,
+   "priceMax": 72000,
+   "compareAtPrice": 90000,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Set de moldes para fondant, animales",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Set de moldes para fondant, animales",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/animales-fondant.png?v=1790621789&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261_44ba41c7-e745-489f-bb6f-828ed10eb8cf.png?v=1790621788",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Set de moldes para fondant, animales",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261_44ba41c7-e745-489f-bb6f-828ed10eb8cf.png?v=1790621788&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261_44ba41c7-e745-489f-bb6f-828ed10eb8cf.png?v=1790621788&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261_44ba41c7-e745-489f-bb6f-828ed10eb8cf.png?v=1790621788&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261-medidas_63ad9c7a-30fb-4837-8893-150f8168b6c4.png?v=1790621788",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Set de moldes para fondant, animales",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261-medidas_63ad9c7a-30fb-4837-8893-150f8168b6c4.png?v=1790621788&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261-medidas_63ad9c7a-30fb-4837-8893-150f8168b6c4.png?v=1790621788&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0261-medidas_63ad9c7a-30fb-4837-8893-150f8168b6c4.png?v=1790621788&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591247069550",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": null,
+     "price": 72000,
+     "compareAtPrice": 90000,
+     "available": true,
+     "stock": 6,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:56:25-03:00"
+  },
+  {
+   "id": "15396137599342",
+   "handle": "molde-plastico-maceta-hexagonal",
+   "title": "Molde PLÁSTICO, maceta hexagonal",
+   "description": "<p>Molde de plástico para yeso</p><p>Modelo maceta hexagonal facetada</p><p>Medidas aproximadas: 10 x 11 x 5.5 cm</p><p>Importante: ⚠️  molde rígido, necesita desmoldante (ver video)</p><p>Referencia: XC-5033</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Ofertas",
+    "Yeso"
+   ],
+   "categories": [
+    "ofertas",
+    "yeso"
+   ],
+   "currency": "UYU",
+   "price": 16000,
+   "priceMin": 16000,
+   "priceMax": 16000,
+   "compareAtPrice": 25000,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde PLÁSTICO, maceta hexagonal",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde PLÁSTICO, maceta hexagonal",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033.png?v=1790621783&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033-medidas.png?v=1790621782",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde PLÁSTICO, maceta hexagonal",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033-medidas.png?v=1790621782&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033-medidas.png?v=1790621782&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC-5033-medidas.png?v=1790621782&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591246938478",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "XC5033",
+     "price": 16000,
+     "compareAtPrice": 25000,
+     "available": true,
+     "stock": 7,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "10 x 11 x 5.5 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:56:19-03:00"
+  },
+  {
+   "id": "15396137435502",
+   "handle": "combo-velas",
+   "title": "Combo velas",
+   "description": "<p>Combo de moldes para velas</p><p>3 moldes incluidos:<br></p><ul>\n<br> \t<li>Osito textura rosas</li>\n<br> \t<li>Cilindro de girasoles</li>\n<br> \t<li>Columna de corazones</li>\n<br>\n</ul>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Ofertas",
+    "Velas"
+   ],
+   "categories": [
+    "ofertas",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 97500,
+   "priceMin": 97500,
+   "priceMax": 97500,
+   "compareAtPrice": 139000,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Combo velas",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo velas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-velas.png?v=1790621775&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234_692cdfd4-0b37-467f-8986-4adc5bda13da.png?v=1790621775",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo velas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234_692cdfd4-0b37-467f-8986-4adc5bda13da.png?v=1790621775&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234_692cdfd4-0b37-467f-8986-4adc5bda13da.png?v=1790621775&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234_692cdfd4-0b37-467f-8986-4adc5bda13da.png?v=1790621775&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234-medidas_701683e9-0924-40b6-86f6-b3d1136dac52.png?v=1790621776",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo velas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234-medidas_701683e9-0924-40b6-86f6-b3d1136dac52.png?v=1790621776&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234-medidas_701683e9-0924-40b6-86f6-b3d1136dac52.png?v=1790621776&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0234-medidas_701683e9-0924-40b6-86f6-b3d1136dac52.png?v=1790621776&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269_e2efbeb1-6be6-4186-8fd9-abf3f0f0581d.png?v=1790621775",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo velas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269_e2efbeb1-6be6-4186-8fd9-abf3f0f0581d.png?v=1790621775&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269_e2efbeb1-6be6-4186-8fd9-abf3f0f0581d.png?v=1790621775&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269_e2efbeb1-6be6-4186-8fd9-abf3f0f0581d.png?v=1790621775&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269-medidas_9dfbb151-22fa-4ada-8655-d74eddc45366.png?v=1790621775",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo velas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269-medidas_9dfbb151-22fa-4ada-8655-d74eddc45366.png?v=1790621775&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269-medidas_9dfbb151-22fa-4ada-8655-d74eddc45366.png?v=1790621775&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0269-medidas_9dfbb151-22fa-4ada-8655-d74eddc45366.png?v=1790621775&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313_34e15501-e43c-40de-9f13-dd973fc4de8c.png?v=1790621776",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo velas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313_34e15501-e43c-40de-9f13-dd973fc4de8c.png?v=1790621776&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313_34e15501-e43c-40de-9f13-dd973fc4de8c.png?v=1790621776&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313_34e15501-e43c-40de-9f13-dd973fc4de8c.png?v=1790621776&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313-medidas_73c26b81-1eef-48cd-a36b-468b422f4b33.png?v=1790621775",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo velas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313-medidas_73c26b81-1eef-48cd-a36b-468b422f4b33.png?v=1790621775&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313-medidas_73c26b81-1eef-48cd-a36b-468b422f4b33.png?v=1790621775&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0313-medidas_73c26b81-1eef-48cd-a36b-468b422f4b33.png?v=1790621775&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591246774638",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": null,
+     "price": 97500,
+     "compareAtPrice": 139000,
+     "available": true,
+     "stock": 8,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:56:12-03:00"
+  },
+  {
+   "id": "15396137402734",
+   "handle": "combo-jabones",
+   "title": "Combo jabones",
+   "description": "<p>Combo de moldes para jabones.</p><p>4 moldes incluidos</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Jabones",
+    "Moldes",
+    "Ofertas"
+   ],
+   "categories": [
+    "jabones",
+    "ofertas"
+   ],
+   "currency": "UYU",
+   "price": 85000,
+   "priceMin": 85000,
+   "priceMax": 85000,
+   "compareAtPrice": 114000,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Combo jabones",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/combo-jabones.png?v=1790621774&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922_106a6062-9f40-4c8d-bed7-e8adfaa7ea9a.png?v=1790621773",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922_106a6062-9f40-4c8d-bed7-e8adfaa7ea9a.png?v=1790621773&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922_106a6062-9f40-4c8d-bed7-e8adfaa7ea9a.png?v=1790621773&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922_106a6062-9f40-4c8d-bed7-e8adfaa7ea9a.png?v=1790621773&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922-medidas_5e45cb86-83c6-4dcb-a127-5ea9dac18eb3.png?v=1790621773",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922-medidas_5e45cb86-83c6-4dcb-a127-5ea9dac18eb3.png?v=1790621773&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922-medidas_5e45cb86-83c6-4dcb-a127-5ea9dac18eb3.png?v=1790621773&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2922-medidas_5e45cb86-83c6-4dcb-a127-5ea9dac18eb3.png?v=1790621773&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1308_6fc084b7-2d5c-4431-a71c-c56995be1b92.png?v=1790621774",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1308_6fc084b7-2d5c-4431-a71c-c56995be1b92.png?v=1790621774&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1308_6fc084b7-2d5c-4431-a71c-c56995be1b92.png?v=1790621774&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1308_6fc084b7-2d5c-4431-a71c-c56995be1b92.png?v=1790621774&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275_b06eacd8-9f93-4cf1-9762-9baf2f334b06.png?v=1790621774",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275_b06eacd8-9f93-4cf1-9762-9baf2f334b06.png?v=1790621774&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275_b06eacd8-9f93-4cf1-9762-9baf2f334b06.png?v=1790621774&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275_b06eacd8-9f93-4cf1-9762-9baf2f334b06.png?v=1790621774&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275-medidas_6985fa96-7cfe-4361-89d1-78ab34b84699.png?v=1790621773",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275-medidas_6985fa96-7cfe-4361-89d1-78ab34b84699.png?v=1790621773&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275-medidas_6985fa96-7cfe-4361-89d1-78ab34b84699.png?v=1790621773&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0275-medidas_6985fa96-7cfe-4361-89d1-78ab34b84699.png?v=1790621773&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277-2_f215c652-f6a9-4baf-b1ae-795e3bb209c3.png?v=1790621773",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277-2_f215c652-f6a9-4baf-b1ae-795e3bb209c3.png?v=1790621773&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277-2_f215c652-f6a9-4baf-b1ae-795e3bb209c3.png?v=1790621773&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277-2_f215c652-f6a9-4baf-b1ae-795e3bb209c3.png?v=1790621773&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277_dc00a407-0dc9-4ce8-bd4b-cd91a9d589e3.png?v=1790621774",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277_dc00a407-0dc9-4ce8-bd4b-cd91a9d589e3.png?v=1790621774&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277_dc00a407-0dc9-4ce8-bd4b-cd91a9d589e3.png?v=1790621774&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0277_dc00a407-0dc9-4ce8-bd4b-cd91a9d589e3.png?v=1790621774&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0277_c775f7f5-e6ea-47a6-a957-b9a01127374d.png?v=1790621774",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0277_c775f7f5-e6ea-47a6-a957-b9a01127374d.png?v=1790621774&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0277_c775f7f5-e6ea-47a6-a957-b9a01127374d.png?v=1790621774&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0277_c775f7f5-e6ea-47a6-a957-b9a01127374d.png?v=1790621774&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275_3d8f279c-d5fb-428b-a244-192733b77bf0.png?v=1790621773",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275_3d8f279c-d5fb-428b-a244-192733b77bf0.png?v=1790621773&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275_3d8f279c-d5fb-428b-a244-192733b77bf0.png?v=1790621773&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275_3d8f279c-d5fb-428b-a244-192733b77bf0.png?v=1790621773&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275-2_d78cb471-0b6b-4713-86d5-631ded0fefc9.png?v=1790621773",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Combo jabones",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275-2_d78cb471-0b6b-4713-86d5-631ded0fefc9.png?v=1790621773&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275-2_d78cb471-0b6b-4713-86d5-631ded0fefc9.png?v=1790621773&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/0275-2_d78cb471-0b6b-4713-86d5-631ded0fefc9.png?v=1790621773&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591246741870",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": null,
+     "price": 85000,
+     "compareAtPrice": 114000,
+     "available": true,
+     "stock": 9,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:56:10-03:00"
+  },
+  {
+   "id": "15396142449006",
+   "handle": "molde-gatito-fantasma",
+   "title": "Molde gatito fantasma",
+   "description": "<p>Molde de silicona para velas/yeso</p><p>Modelo gatito fantasma</p><p>Medidas aproximadas: 6.7 x 7 x 7.5 cm</p><p>Medidas aproximadas de la pieza termina: 5.9 x 6.2 x 6.4 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC3170</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Halloween",
+    "Moldes",
+    "Nuevos ingresos",
+    "Velas"
+   ],
+   "categories": [
+    "halloween",
+    "nuevos-ingresos",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 30000,
+   "priceMin": 30000,
+   "priceMax": 30000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde gatito fantasma",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde gatito fantasma",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170.png?v=1790621960&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170-medidas.png?v=1790621960",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde gatito fantasma",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170-medidas.png?v=1790621960&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170-medidas.png?v=1790621960&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3170-medidas.png?v=1790621960&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254507886",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC3170",
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 10,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "6.7 x 7 x 7.5 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:17-03:00"
+  },
+  {
+   "id": "15396142416238",
+   "handle": "molde-perrito-fantasma",
+   "title": "Molde perrito fantasma",
+   "description": "<p>Molde de silicona para velas/yeso</p><p>Modelo perrito fantasma</p><p>Medidas aproximadas: 6.3 x 7.5 x 7 cm</p><p>Medidas aproximadas de la pieza termina: 5.2 x 6.5 x 6 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC3171</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Halloween",
+    "Moldes",
+    "Nuevos ingresos",
+    "Velas"
+   ],
+   "categories": [
+    "halloween",
+    "nuevos-ingresos",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 30000,
+   "priceMin": 30000,
+   "priceMax": 30000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde perrito fantasma",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde perrito fantasma",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171.png?v=1790621958&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171-medidas.png?v=1790621961",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde perrito fantasma",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171-medidas.png?v=1790621961&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171-medidas.png?v=1790621961&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3171-medidas.png?v=1790621961&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254475118",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC3171",
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 11,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "6.3 x 7.5 x 7 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:15-03:00"
+  },
+  {
+   "id": "15396142317934",
+   "handle": "molde-pino-navideno-plano",
+   "title": "Molde pino navideño plano",
+   "description": "<p>Molde de silicona para velas</p><p>Modelo pino navideño plano</p><p>Medidas aproximadas: 7.2 x 8 x 2.6 cm</p><p>Referencia: P0458</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Nuevos ingresos",
+    "Velas"
+   ],
+   "categories": [
+    "navidad",
+    "nuevos-ingresos",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde pino navideño plano",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde pino navideño plano",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458.png?v=1790621954&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458-medidas.png?v=1790621960",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde pino navideño plano",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458-medidas.png?v=1790621960&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458-medidas.png?v=1790621960&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0458-medidas.png?v=1790621960&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254376814",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P0458",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 3,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "7.2 x 8 x 2.6 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:11-03:00"
+  },
+  {
+   "id": "15396142252398",
+   "handle": "molde-porta-velas-con-figuras-navidenas",
+   "title": "Molde porta velas con figuras navideñas",
+   "description": "<p>Molde de silicona para yeso/resina</p><p>Modelo porta velas con figuras navideñas intercambiables</p><p>Medidas aproximadas: base 8.3 cm de diámetro, 3.1 cm de altura; figuras grandes 5 x 6.5 cm, figuras chicas 2.5 x 4 cm</p><p>Referencia: JSC3165</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Nuevos ingresos",
+    "Resina",
+    "Yeso"
+   ],
+   "categories": [
+    "navidad",
+    "nuevos-ingresos",
+    "resina",
+    "yeso"
+   ],
+   "currency": "UYU",
+   "price": 50000,
+   "priceMin": 50000,
+   "priceMax": 50000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde porta velas con figuras navideñas",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas con figuras navideñas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165.png?v=1790621955&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas.png?v=1790621951",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas con figuras navideñas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas.png?v=1790621951&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas.png?v=1790621951&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas.png?v=1790621951&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas1.png?v=1790621954",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas con figuras navideñas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas1.png?v=1790621954&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas1.png?v=1790621954&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas1.png?v=1790621954&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas2.png?v=1790621956",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas con figuras navideñas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas2.png?v=1790621956&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas2.png?v=1790621956&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3165-medidas2.png?v=1790621956&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254278510",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC3165",
+     "price": 50000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 4,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:08-03:00"
+  },
+  {
+   "id": "15396142186862",
+   "handle": "molde-porta-velas-pesebre-plano",
+   "title": "Molde porta velas pesebre plano",
+   "description": "<p>Molde de silicona para resina o yeso</p><p>Modelo pesebre plano con porta velas</p><p>Medidas aproximadas: 13.2 x 16.1 x 1cm, base 5.5 x 15.5 cm</p><p>Referencia: P0405</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Nuevos ingresos",
+    "Yeso"
+   ],
+   "categories": [
+    "navidad",
+    "nuevos-ingresos",
+    "yeso"
+   ],
+   "currency": "UYU",
+   "price": 40000,
+   "priceMin": 40000,
+   "priceMax": 40000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde porta velas pesebre plano",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas pesebre plano",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405.png?v=1790621949&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405-medidas.png?v=1790621950",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas pesebre plano",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405-medidas.png?v=1790621950&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405-medidas.png?v=1790621950&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0405-medidas.png?v=1790621950&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254180206",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P0405",
+     "price": 40000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 5,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "13.2 x 16.1 x 1cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:06-03:00"
+  },
+  {
+   "id": "15396142088558",
+   "handle": "molde-porta-velas-navideno",
+   "title": "Molde porta velas navideño",
+   "description": "<p>Molde de silicona para yeso o resina</p><p>Modelo porta velas/alhajero navideño</p><p>Medidas aproximadas: 9 x 9 x 8.7 cm, tapa 8.3 x 4.7 cm</p><p>Medidas aproximadas de la pieza terminada: 8 x 8 x 8 cm, tapa 8 x 4.3 cm</p><p>Referencia: P0385</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Nuevos ingresos",
+    "Yeso"
+   ],
+   "categories": [
+    "navidad",
+    "nuevos-ingresos",
+    "yeso"
+   ],
+   "currency": "UYU",
+   "price": 45000,
+   "priceMin": 45000,
+   "priceMax": 45000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde porta velas navideño",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas navideño",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385.png?v=1790621946&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385-medidas.png?v=1790621946",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde porta velas navideño",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385-medidas.png?v=1790621946&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385-medidas.png?v=1790621946&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0385-medidas.png?v=1790621946&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254081902",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P0385",
+     "price": 45000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 6,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "9 x 9 x 8.7 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:03-03:00"
+  },
+  {
+   "id": "15396142154094",
+   "handle": "molde-colgantes-navidenos",
+   "title": "Molde colgantes navideños",
+   "description": "<p>Molde de silicona para resina</p><p>Modelo colgantes navideños</p><p>Medidas aproximadas: 14 x 18 x 0.6 cm</p><p>Medidas aproximadas de las cavidades:<br></p><ul>\n<br> \t<li>Casa 5.6 x 6.2 cm</li>\n<br> \t<li>Pino 5 x 6.3 cm</li>\n<br> \t<li>Papá Noel 5 x 7 cm</li>\n<br> \t<li>Bota 4 x 5.6 cm</li>\n<br> \t<li>Copo de nieve 4.7 x 6 cm</li>\n<br> \t<li>Caramelo 4.7 x 6.5 cm</li>\n<br>\n</ul><br>Referencia: XC1598",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Nuevos ingresos",
+    "Resina"
+   ],
+   "categories": [
+    "navidad",
+    "nuevos-ingresos",
+    "resina"
+   ],
+   "currency": "UYU",
+   "price": 30000,
+   "priceMin": 30000,
+   "priceMax": 30000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde colgantes navideños",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde colgantes navideños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598.png?v=1790621948&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-2.png?v=1790621948",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde colgantes navideños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-2.png?v=1790621948&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-2.png?v=1790621948&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-2.png?v=1790621948&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-medidas.png?v=1790621948",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde colgantes navideños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-medidas.png?v=1790621948&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-medidas.png?v=1790621948&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC1598-medidas.png?v=1790621948&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254147438",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "XC1598",
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 7,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "14 x 18 x 0.6 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:05-03:00"
+  },
+  {
+   "id": "15396141990254",
+   "handle": "molde-flores-y-mariposas",
+   "title": "Molde flores y mariposas",
+   "description": "<p>Molde de silicona para bombones/mini jabones</p><p>Modelo flores y mariposas</p><p>Medidas aproximadas: 14.5 x 17.5 x 1.7 cm</p><p>Medidas aproximadas de las cavidades: rosa y margarita 3.5 cm de diámetro, mariposa 3 x 4 cm, flores con tallo 3 x 3.8 cm</p><p>Referencia: JSC0162</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Bombones",
+    "Jabones",
+    "Moldes",
+    "Nuevos ingresos"
+   ],
+   "categories": [
+    "bombones",
+    "jabones",
+    "nuevos-ingresos"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde flores y mariposas",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde flores y mariposas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162.png?v=1790621947&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162-medidas.png?v=1790621949",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde flores y mariposas",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162-medidas.png?v=1790621949&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162-medidas.png?v=1790621949&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0162-medidas.png?v=1790621949&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591253983598",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0162",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 8,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "14.5 x 17.5 x 1.7 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:59-03:00"
+  },
+  {
+   "id": "15396141793646",
+   "handle": "molde-koalas-x-4",
+   "title": "Molde koalas x 4",
+   "description": "<p>Molde de silicona para bombones, velas o jabones</p><p>Modelo koalas x 4</p><p>Medidas aproximadas: 13 x 13.5 x 2.6 cm</p><p>Medidas aproximadas de cada cavidad: 5 x 5.5 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC0164</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Jabones",
+    "Moldes",
+    "Nuevos ingresos",
+    "Velas"
+   ],
+   "categories": [
+    "jabones",
+    "nuevos-ingresos",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 15000,
+   "priceMin": 15000,
+   "priceMax": 15000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde koalas x 4",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde koalas x 4",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164.png?v=1790621930&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas.png?v=1790621937",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde koalas x 4",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas.png?v=1790621937&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas.png?v=1790621937&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas.png?v=1790621937&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas2.png?v=1790621930",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde koalas x 4",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas2.png?v=1790621930&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas2.png?v=1790621930&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0164-medidas2.png?v=1790621930&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591253492078",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0164",
+     "price": 15000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 9,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "13 x 13.5 x 2.6 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:47-03:00"
+  },
+  {
+   "id": "15396141007214",
+   "handle": "molde-figuras-navidenas-x-8",
+   "title": "Molde figuras navideñas x 8",
+   "description": "<p>Molde de silicona para velas/jabones/repostería</p><p>Modelo figuras navideñas x 8</p><p>Medidas aproximadas: 14.1 x 20.2 x 1.8 cm</p><p>Medidas aproximadas de cada cavidad: casita 4.5 x 5 cm, pino 2.5 x 5.7 cm, montaña 4.5 x 4.5 cm, pingüino 5.5 x 5.5 cm, reno 3.5 x 6 cm, muñeco de nieve 3.5 x 6 cm, auto 4.3 x 5.2 cm, papá Noel 5 x 5.5 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC0052</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Jabones",
+    "Moldes",
+    "Navidad",
+    "Velas"
+   ],
+   "categories": [
+    "jabones",
+    "navidad",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 25000,
+   "priceMin": 25000,
+   "priceMax": 25000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde figuras navideñas x 8",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde figuras navideñas x 8",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052.png?v=1790621909&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052-medidas.png?v=1790621903",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde figuras navideñas x 8",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052-medidas.png?v=1790621903&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052-medidas.png?v=1790621903&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0052-medidas.png?v=1790621903&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591252607342",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0052",
+     "price": 25000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 10,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "14.1 x 20.2 x 1.8 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:21-03:00"
+  },
+  {
+   "id": "15396141760878",
+   "handle": "molde-bellota-hongos-animales",
+   "title": "Molde bellota, hongos, animales",
+   "description": "<p>Molde de silicona para bombones</p><p>Modelo bellotas, hongos, hojas, animales</p><p>Medidas aproximadas: 16.6 x 17.5 x 1.7 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC0145</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Bombones",
+    "Moldes",
+    "Nuevos ingresos"
+   ],
+   "categories": [
+    "bombones",
+    "nuevos-ingresos"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde bellota, hongos, animales",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde bellota, hongos, animales",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145.png?v=1790621928&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145-medidas.png?v=1790621928",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde bellota, hongos, animales",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145-medidas.png?v=1790621928&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145-medidas.png?v=1790621928&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0145-medidas.png?v=1790621928&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591253459310",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0145",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 11,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "16.6 x 17.5 x 1.7 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:45-03:00"
+  },
+  {
+   "id": "15396141695342",
+   "handle": "molde-vestidos-carteras-monos",
+   "title": "Molde vestidos, carteras, moños",
+   "description": "<p>Molde de silicona para bombones</p><p>Modelo vestidos, carteras, moños</p><p>Medidas aproximadas: 11.9 x 20.9 x 1.5 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC0160</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Bombones",
+    "Moldes",
+    "Nuevos ingresos"
+   ],
+   "categories": [
+    "bombones",
+    "nuevos-ingresos"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde vestidos, carteras, moños",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde vestidos, carteras, moños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160.png?v=1790621927&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160-medidas.png?v=1790621929",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde vestidos, carteras, moños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160-medidas.png?v=1790621929&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160-medidas.png?v=1790621929&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0160-medidas.png?v=1790621929&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591253426542",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0160",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 3,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "11.9 x 20.9 x 1.5 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:44-03:00"
+  },
+  {
+   "id": "15396141138286",
+   "handle": "molde-copetes-x-2",
+   "title": "Molde copetes x 2",
+   "description": "<p>Molde de silicona para velas o repostería</p><p>Modelo copetes x 2</p><p>Medidas aproximadas de la pieza terminada: 6 cm de diámetro, 5 cm de altura</p><p>Molde cortado a partir del original de 6 cavidades</p><p>Referencia: <span data-sheets-root=\"1\">JSC0241</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Nuevos ingresos",
+    "Repostería",
+    "Velas"
+   ],
+   "categories": [
+    "nuevos-ingresos",
+    "reposteria",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 15000,
+   "priceMin": 15000,
+   "priceMax": 15000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde copetes x 2",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde copetes x 2",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241.png?v=1790621909&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241-medidas.png?v=1790621976",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde copetes x 2",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241-medidas.png?v=1790621976&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241-medidas.png?v=1790621976&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0241-medidas.png?v=1790621976&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591252738414",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0241",
+     "price": 15000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 4,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:27-03:00"
+  },
+  {
+   "id": "15396141039982",
+   "handle": "molde-copetes-x-6",
+   "title": "Molde copetes x 6",
+   "description": "<p>Molde de silicona para velas o repostería</p><p>Modelo copetes x 6</p><p>Medidas aproximadas: 19 x 28 cm</p><p>Medidas aproximadas de la pieza terminada: 6 cm de diámetro, 5 cm de altura</p><p>Referencia: <span data-sheets-root=\"1\">JSC0240</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Nuevos ingresos",
+    "Repostería",
+    "Velas"
+   ],
+   "categories": [
+    "nuevos-ingresos",
+    "reposteria",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 30000,
+   "priceMin": 30000,
+   "priceMax": 30000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde copetes x 6",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde copetes x 6",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240.png?v=1790621905&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240-medidas.png?v=1790621905",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde copetes x 6",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240-medidas.png?v=1790621905&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240-medidas.png?v=1790621905&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0240-medidas.png?v=1790621905&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591252640110",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0240",
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 5,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "19 x 28 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:22-03:00"
+  },
+  {
+   "id": "15396140908910",
+   "handle": "tartera-de-silicona-muerdago-con-mono",
+   "title": "Tartera de silicona, muérdago con moño",
+   "description": "<p>Tartera de silicona</p><p>Modelo muérdago con moño</p><p>Medidas aproximadas: 22 x 24 x 5 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC0245</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Repostería"
+   ],
+   "categories": [
+    "navidad",
+    "reposteria"
+   ],
+   "currency": "UYU",
+   "price": 30000,
+   "priceMin": 30000,
+   "priceMax": 30000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Tartera de silicona, muérdago con moño",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Tartera de silicona, muérdago con moño",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245.png?v=1790621906&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245-medidas.png?v=1790621908",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Tartera de silicona, muérdago con moño",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245-medidas.png?v=1790621908&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245-medidas.png?v=1790621908&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0245-medidas.png?v=1790621908&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591252509038",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0245",
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 6,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "22 x 24 x 5 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:18-03:00"
+  },
+  {
+   "id": "15396141105518",
+   "handle": "molde-mini-flores-y-hojas-fondant",
+   "title": "Molde mini flores y hojas fondant",
+   "description": "<p>Molde de silicona para fondant/porcelana fría</p><p>Modelo mini flores y hojas, 7 cavidades: 4 flores, 3 hojas</p><p>Medidas aproximadas: 7 x 7 x 1 cm</p><p>Medidas aproximadas de cada cavidad: 2 x 2 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC0138</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Fondant",
+    "Moldes"
+   ],
+   "categories": [
+    "fondant"
+   ],
+   "currency": "UYU",
+   "price": 14000,
+   "priceMin": 14000,
+   "priceMax": 14000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde mini flores y hojas fondant",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde mini flores y hojas fondant",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138.png?v=1790621914&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138-medidas.png?v=1790621922",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde mini flores y hojas fondant",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138-medidas.png?v=1790621922&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138-medidas.png?v=1790621922&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0138-medidas.png?v=1790621922&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591252705646",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0138",
+     "price": 14000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 7,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "7 x 7 x 1 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:25-03:00"
+  },
+  {
+   "id": "15396140581230",
+   "handle": "molde-hojas-de-muerdago",
+   "title": "Molde hojas de muérdago",
+   "description": "<p>Molde de silicona para fondat/porcelana/velas</p><p>Modelo hojas de muérdago, 3 cavidades de tamaños diferentes</p><p>Medidas aproximadas: 5.6 x 8.6 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC0128</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Fondant",
+    "Moldes",
+    "Navidad"
+   ],
+   "categories": [
+    "fondant",
+    "navidad"
+   ],
+   "currency": "UYU",
+   "price": 15000,
+   "priceMin": 15000,
+   "priceMax": 15000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde hojas de muérdago",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde hojas de muérdago",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128.png?v=1790621892&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128-medidas.png?v=1790621886",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde hojas de muérdago",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128-medidas.png?v=1790621886&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128-medidas.png?v=1790621886&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0128-medidas.png?v=1790621886&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591252148590",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0128",
+     "price": 15000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 8,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "5.6 x 8.6 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:03-03:00"
+  },
+  {
+   "id": "15396128162158",
+   "handle": "molde-tabletas-12-disenos",
+   "title": "Molde tabletas 12 diseños",
+   "description": "<p>Molde de silicona para tabletas de chocolate</p><p>12 cavidades con diferentes diseños/texturas</p><p>Medidas aproximadas: 17 x 27.4 x 1.1 cm</p><p>Medidas aproximadas de cada cavidad: 3.5 x 7 cm</p><p>Referencia: JSC2375</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Tabletas"
+   ],
+   "categories": [
+    "tabletas"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde tabletas 12 diseños",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde tabletas 12 diseños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2375.png?v=1790621588&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591222133102",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC2375",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 9,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "17 x 27.4 x 1.1 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:53:04-03:00"
+  },
+  {
+   "id": "15396128063854",
+   "handle": "molde-tabletas-medianas-6-disenos",
+   "title": "Molde tabletas medianas 6 diseños",
+   "description": "<p>Molde de silicona para tabletas de chocolate</p><p>6 cavidades con diseños diferentes</p><p>Medidas aproximadas: 15 x 20 x 1.2 cm</p><p>Medidas aproximadas de cada cavidad: 4.3 x 8.4 cm</p><p>Referencia: JSC2376</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Tabletas"
+   ],
+   "categories": [
+    "tabletas"
+   ],
+   "currency": "UYU",
+   "price": 15000,
+   "priceMin": 15000,
+   "priceMax": 15000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde tabletas medianas 6 diseños",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde tabletas medianas 6 diseños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376.png?v=1790621585&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376-medidas.png?v=1790621586",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde tabletas medianas 6 diseños",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376-medidas.png?v=1790621586&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376-medidas.png?v=1790621586&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2376-medidas.png?v=1790621586&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591221543278",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC2376",
+     "price": 15000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 10,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "15 x 20 x 1.2 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:53:03-03:00"
+  },
+  {
+   "id": "15396119249262",
+   "handle": "molde-tableta-de-chocolate-gruesa",
+   "title": "Molde tableta de chocolate gruesa",
+   "description": "<p>Molde de silicona para tableta de chocolate</p><p>Medidas aproximadas: 13 x 25.5 x 1.9 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC2374</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Tabletas"
+   ],
+   "categories": [
+    "tabletas"
+   ],
+   "currency": "UYU",
+   "price": 18000,
+   "priceMin": 18000,
+   "priceMax": 18000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde tableta de chocolate gruesa",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde tableta de chocolate gruesa",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374.png?v=1790621471&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374-medidas.png?v=1790621471",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde tableta de chocolate gruesa",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374-medidas.png?v=1790621471&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374-medidas.png?v=1790621471&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2374-medidas.png?v=1790621471&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591185105262",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC2374",
+     "price": 18000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 11,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "13 x 25.5 x 1.9 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:51:08-03:00"
+  },
+  {
+   "id": "15396132913518",
+   "handle": "molde-paleta-vela-labubu-ojos-cerrados",
+   "title": "Molde paleta/vela labubu ojos cerrados",
+   "description": "<p>Molde de silicona para paleta de helado o vela</p><p>Modelo Labubu con ojos cerrados</p><p>Medidas aproximadas de la pieza terminada: 7 x 9 x 2.5 cm</p><p>Importante: si se utiliza para vela, es necesario tapar la ranura por donde se coloca el palito de helado</p><p>Referencia: JSC2944</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Paletas",
+    "Velas"
+   ],
+   "categories": [
+    "paletas",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 40000,
+   "priceMin": 40000,
+   "priceMax": 40000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde paleta/vela labubu ojos cerrados",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde paleta/vela labubu ojos cerrados",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944.png?v=1790621654&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944-medidas.png?v=1790621654",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde paleta/vela labubu ojos cerrados",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944-medidas.png?v=1790621654&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944-medidas.png?v=1790621654&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2944-medidas.png?v=1790621654&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591238123886",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC2944",
+     "price": 40000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 3,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:54:11-03:00"
+  },
+  {
+   "id": "15396132815214",
+   "handle": "molde-paleta-vela-labubu-ojos-abiertos",
+   "title": "Molde paleta/vela labubu ojos abiertos",
+   "description": "<p>Molde de silicona para paleta de helado o vela</p><p>Modelo Labubu con ojos abiertos</p><p>Medidas aproximadas de la pieza terminada: 7 x 9 x 2.5 cm</p><p>Importante: si se utiliza para vela, es necesario tapar la ranura por donde se coloca el palito de helado</p><p>Referencia: JSC2945</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Paletas",
+    "Velas"
+   ],
+   "categories": [
+    "paletas",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 40000,
+   "priceMin": 40000,
+   "priceMax": 40000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde paleta/vela labubu ojos abiertos",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde paleta/vela labubu ojos abiertos",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945.png?v=1790621653&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945-medidas.png?v=1790621653",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde paleta/vela labubu ojos abiertos",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945-medidas.png?v=1790621653&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945-medidas.png?v=1790621653&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2945-medidas.png?v=1790621653&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591237992814",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC2945",
+     "price": 40000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 4,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:54:10-03:00"
+  },
+  {
+   "id": "15396120920430",
+   "handle": "molde-chupetines-espiral",
+   "title": "Molde chupetines espiral",
+   "description": "<p>Molde para paletas/chupetines</p><p>Modelo espiral redondos, 6 cavidades</p><p>Medidas aproximadas: 10 x 24 x 1.5 cm</p><p>Diámetro de cada cavidad: 4 cm</p><p>Referencia: <span data-sheets-root=\"1\">JSC2823</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Paletas"
+   ],
+   "categories": [
+    "paletas"
+   ],
+   "currency": "UYU",
+   "price": 12000,
+   "priceMin": 12000,
+   "priceMax": 12000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde chupetines espiral",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde chupetines espiral",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823.png?v=1790621490&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823-medidas.png?v=1790621490",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde chupetines espiral",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823-medidas.png?v=1790621490&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823-medidas.png?v=1790621490&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC2823-medidas.png?v=1790621490&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591192379758",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC2823",
+     "price": 12000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 5,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "10 x 24 x 1.5 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:51:27-03:00"
+  },
+  {
+   "id": "15396142383470",
+   "handle": "molde-copo-de-nieve",
+   "title": "Molde copo de nieve",
+   "description": "<p>Molde de silicona para velas</p><p>Modelo copo de nieve</p><p>Medidas aproximadas: 6.8 x 6.8 x 2.6 cm</p><p>Referencia: P0462</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Nuevos ingresos"
+   ],
+   "categories": [
+    "navidad",
+    "nuevos-ingresos"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde copo de nieve",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde copo de nieve",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462.png?v=1790621963&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462-medidas.png?v=1790621957",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde copo de nieve",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462-medidas.png?v=1790621957&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462-medidas.png?v=1790621957&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0462-medidas.png?v=1790621957&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254442350",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P0462",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 6,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "6.8 x 6.8 x 2.6 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:14-03:00"
+  },
+  {
+   "id": "15396142350702",
+   "handle": "molde-pino-plano",
+   "title": "Molde pino plano",
+   "description": "<p>Molde de silicona para velas</p><p>Modelo pino navideño plano</p><p>Medidas aproximadas: 6.8 x 8.8 x 2.6 cm</p><p>Referencia: P0459</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Navidad",
+    "Nuevos ingresos"
+   ],
+   "categories": [
+    "navidad",
+    "nuevos-ingresos"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde pino plano",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde pino plano",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459.png?v=1790621962&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459-medidas.png?v=1790621955",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde pino plano",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459-medidas.png?v=1790621955&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459-medidas.png?v=1790621955&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0459-medidas.png?v=1790621955&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254409582",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P0459",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 7,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "6.8 x 8.8 x 2.6 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:13-03:00"
+  },
+  {
+   "id": "15396141662574",
+   "handle": "molde-fantasmas-chicos-x4",
+   "title": "Molde fantasmas chicos x4",
+   "description": "<p>Molde de silicona para yeso o velas</p><p>Modelo fantasmas chicos x4</p><p>Medidas aproximadas: 9 x 9 x 3.5 cm</p><p>Referencia: <span data-sheets-root=\"1\">XC0833</span></p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Halloween",
+    "Moldes",
+    "Nuevos ingresos",
+    "Velas",
+    "Yeso"
+   ],
+   "categories": [
+    "halloween",
+    "nuevos-ingresos",
+    "velas",
+    "yeso"
+   ],
+   "currency": "UYU",
+   "price": 30000,
+   "priceMin": 30000,
+   "priceMax": 30000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde fantasmas chicos x4",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde fantasmas chicos x4",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833.png?v=1790621999&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833-medidas.png?v=1790621927",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde fantasmas chicos x4",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833-medidas.png?v=1790621927&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833-medidas.png?v=1790621927&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/XC0833-medidas.png?v=1790621927&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591253328238",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "XC0833",
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 8,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "9 x 9 x 3.5 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:58:43-03:00"
+  },
+  {
+   "id": "15396136943982",
+   "handle": "molde-conejo-y-huevo-grandes-chatos",
+   "title": "Molde conejo y huevo grandes chatos",
+   "description": "<p>Molde de silicona para chocolate</p><p>Modelo conejo grande y huevo grande</p><p>Medidas aproximadas: 16.5 x 23 x 4 cm</p><p>Referencia: JSC0133</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Moldes",
+    "Pascuas",
+    "Repostería"
+   ],
+   "categories": [
+    "pascuas",
+    "reposteria"
+   ],
+   "currency": "UYU",
+   "price": 30000,
+   "priceMin": 30000,
+   "priceMax": 30000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde conejo y huevo grandes chatos",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde conejo y huevo grandes chatos",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133.png?v=1790621754&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133-medidas.png?v=1790621754",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde conejo y huevo grandes chatos",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133-medidas.png?v=1790621754&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133-medidas.png?v=1790621754&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0133-medidas.png?v=1790621754&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591246119278",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0133",
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 9,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "16.5 x 23 x 4 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:55:51-03:00"
+  },
+  {
+   "id": "15396136911214",
+   "handle": "molde-conejos-x-3",
+   "title": "Molde conejos x 3",
+   "description": "<p>Molde de silicona para chocolate/fondant/porcelana</p><p>Modelo conejos x 3</p><p>Medidas aproximadas de cada cavidad: 6 cm de altura, entre 3 y 4.5 cm de ancho (según el conejo), espesor del molde: 1.2 cm</p><p>Referencia: P0237</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Fondant",
+    "Moldes",
+    "Pascuas"
+   ],
+   "categories": [
+    "fondant",
+    "pascuas"
+   ],
+   "currency": "UYU",
+   "price": 35000,
+   "priceMin": 35000,
+   "priceMax": 35000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde conejos x 3",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde conejos x 3",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237.png?v=1790621753&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237-medidas.png?v=1790621753",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde conejos x 3",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237-medidas.png?v=1790621753&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237-medidas.png?v=1790621753&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0237-medidas.png?v=1790621753&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591246086510",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P0237",
+     "price": 35000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 10,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:55:50-03:00"
+  },
+  {
+   "id": "15396136878446",
+   "handle": "molde-medios-huevos-texturados",
+   "title": "Molde medios huevos texturados",
+   "description": "<p>Molde de silicona para chocolate/fondant/porcelana</p><p>Modelo medios huevos texturados</p><p>Medidas aproximadas de cada cavidad: 3.5 x 5 x 1.5 cm</p><p>Referencia: P0238</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Fondant",
+    "Moldes",
+    "Pascuas"
+   ],
+   "categories": [
+    "fondant",
+    "pascuas"
+   ],
+   "currency": "UYU",
+   "price": 22000,
+   "priceMin": 22000,
+   "priceMax": 22000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde medios huevos texturados",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde medios huevos texturados",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238.png?v=1790621751&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238-medidas.png?v=1790621751",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde medios huevos texturados",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238-medidas.png?v=1790621751&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238-medidas.png?v=1790621751&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P0238-medidas.png?v=1790621751&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591246053742",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P0238",
+     "price": 22000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 11,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:55:48-03:00"
+  },
+  {
+   "id": "15396142481774",
+   "handle": "cera-de-soja-apf",
+   "title": "Cera de soja APF",
+   "description": "<p>Cera de soja de alto punto de fusión</p><p>Para velas de molde</p><p>Presentación: 1 kg</p><p>Referencia: M0112</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Insumos",
+    "Moldes",
+    "Nuevos ingresos"
+   ],
+   "categories": [
+    "insumos",
+    "nuevos-ingresos"
+   ],
+   "currency": "UYU",
+   "price": 50000,
+   "priceMin": 50000,
+   "priceMax": 50000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Cera de soja APF",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Cera de soja APF",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112-1.png?v=1790621962&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112.png?v=1790621961",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Cera de soja APF",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112.png?v=1790621961&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112.png?v=1790621961&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/M0112.png?v=1790621961&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591254540654",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "M0112",
+     "price": 50000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 3,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:59:18-03:00"
+  },
+  {
+   "id": "15396130849134",
+   "handle": "embudo-dosificador-1200-ml",
+   "title": "Embudo dosificador 1200 mL",
+   "description": "<p>Embudo dosificador metálico</p><p>Ideal para repostería o velas</p><p>Capacidad: 1200 mL</p><p>Medidas aproximadas: 13 cm de diámetro, 20 cm de altura</p><p>Referencia: P1039</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Insumos",
+    "Moldes",
+    "Repostería",
+    "Velas"
+   ],
+   "categories": [
+    "insumos",
+    "reposteria",
+    "velas"
+   ],
+   "currency": "UYU",
+   "price": 80000,
+   "priceMin": 80000,
+   "priceMax": 80000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Embudo dosificador 1200 mL",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Embudo dosificador 1200 mL",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P-1039.png?v=1790621639&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-medidas.png?v=1790621630",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Embudo dosificador 1200 mL",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-medidas.png?v=1790621630&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-medidas.png?v=1790621630&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-medidas.png?v=1790621630&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-2.png?v=1790621711",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Embudo dosificador 1200 mL",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-2.png?v=1790621711&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-2.png?v=1790621711&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/P1039-2.png?v=1790621711&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591232061806",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "P1039",
+     "price": 80000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 4,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:53:48-03:00"
+  },
+  {
+   "id": "15396125081966",
+   "handle": "espatula-larga-multiuso",
+   "title": "Espátula larga multiuso",
+   "description": "<p>Espátula de silicona larga</p><p>Medidas aproximadas: 24.1 x 2,3 cm</p><p>Color aleatorio</p><p>Referencia: JSC0234</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Insumos",
+    "Moldes",
+    "Repostería"
+   ],
+   "categories": [
+    "insumos",
+    "reposteria"
+   ],
+   "currency": "UYU",
+   "price": 20000,
+   "priceMin": 20000,
+   "priceMax": 20000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Espátula larga multiuso",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Espátula larga multiuso",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC-0234.png?v=1790621544&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0234-medidas.png?v=1790621544",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Espátula larga multiuso",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0234-medidas.png?v=1790621544&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0234-medidas.png?v=1790621544&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC0234-medidas.png?v=1790621544&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591210041710",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC0234",
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 5,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {
+    "Medidas": "24.1 x 2,3 cm"
+   },
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:52:21-03:00"
+  },
+  {
+   "id": "15396136485230",
+   "handle": "molde-sahumador-flor-de-loto",
+   "title": "Molde sahumador flor de loto",
+   "description": "<p>Molde de silicona para yeso</p><p>Modelo sahumador flor de loto</p><p>Medidas aproximadas: diámetro exterior 11.9 cm, diámetro interior 6.2 cm, altura 5 cm</p><p>Referencia: JSC3111</p>",
+   "type": "Moldes",
+   "vendor": "Yuan Import",
+   "tags": [
+    "Destacados",
+    "Moldes",
+    "Nuevos ingresos",
+    "Yeso"
+   ],
+   "categories": [
+    "nuevos-ingresos",
+    "yeso"
+   ],
+   "currency": "UYU",
+   "price": 55000,
+   "priceMin": 55000,
+   "priceMax": 55000,
+   "compareAtPrice": null,
+   "available": true,
+   "image": {
+    "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Molde sahumador flor de loto",
+    "sizes": {
+     "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743&width=320",
+     "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743&width=640",
+     "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743&width=1024"
+    }
+   },
+   "images": [
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde sahumador flor de loto",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111.png?v=1790621743&width=1024"
+     }
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111-medidas.png?v=1790621742",
+     "width": 1080,
+     "height": 1080,
+     "alt": "Molde sahumador flor de loto",
+     "sizes": {
+      "320": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111-medidas.png?v=1790621742&width=320",
+      "640": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111-medidas.png?v=1790621742&width=640",
+      "1024": "https://cdn.shopify.com/s/files/1/1027/7951/9342/files/JSC3111-medidas.png?v=1790621742&width=1024"
+     }
+    }
+   ],
+   "video": null,
+   "options": [],
+   "variants": [
+    {
+     "id": "v67591245300078",
+     "title": "",
+     "options": [
+      "Default Title"
+     ],
+     "sku": "JSC3111",
+     "price": 55000,
+     "compareAtPrice": null,
+     "available": true,
+     "stock": 6,
+     "image": null,
+     "imageIndex": null
+    }
+   ],
+   "attributes": {},
+   "multiple": 1,
+   "faq": [],
+   "metafields": {},
+   "createdAt": "2026-09-28T15:55:40-03:00"
+  }
+ ]
+}
